@@ -29,10 +29,11 @@
 1. Escribir una función con la siguiente firma func swap(px, py *int) que permita intercambiar el valor almacenado en dos variables enteras a través de punteros.
 
 <h4>Estructuras e Interfaces</h4>
-1. Agregar al módulo figuras visto en el taller un círculo (representado por un pto que indica el centro y su radio (entero). El círculo debe implementar los métodos de la interface figura
+1. Agregar al módulo figuras visto en el taller un círculo (representado por un pto que indica el centro y su radio (entero). El círculo debe implementar los métodos de la interface figura.
 2. Escribir un programma que presente un menú con las opciones:
-a. Rectangulo
-b. Cuadrado
-c. Circulo
-s. Salir
-Que le permita al usuario crear hasta 5 figuras y almacenarlas en un arreglo de figuras. Al seleccionar salir debe mostrar por pantalla todas las figuras almacenadas (usando el ToString) de cada figura.
+
+- a. Rectangulo
+- b. Cuadrado
+- c. Circulo
+
+Que le permita al usuario crear 5 figuras y almacenarlas en un arreglo de figuras. Al terminar de cargar las figuras debe mostrar por pantalla todas las figuras almacenadas (usando el ToString) de cada figura.
