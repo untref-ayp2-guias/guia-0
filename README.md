@@ -29,8 +29,9 @@
 1. Escribir una función con la siguiente firma func swap(px, py *int) que permita intercambiar el valor almacenado en dos variables enteras a través de punteros.
 
 <h4>Estructuras e Interfaces</h4>
+
 1. Agregar al módulo figuras visto en el taller un círculo (representado por un pto que indica el centro y su radio (entero). El círculo debe implementar los métodos de la interface figura.
-2. Escribir un programma que presente un menú con las opciones:
+2. Escribir un programa que presente un menú con las opciones:
 
 - a. Rectangulo
 - b. Cuadrado
