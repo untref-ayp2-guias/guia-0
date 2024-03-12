@@ -4,7 +4,7 @@
 
 <h4>Funciones</h4>
 
-1. Definir una función que, dado los coeficientes de un polinomio de grado n (números flotantes), muestre por pantalla el polinomio completo, por ejemplo si recibe los coeficientes 3.0, 2.0 y 1.0 debe mostrar 3.0 + 2.0 X + 1.0 X**2
+1. Definir una función que, dado los coeficientes de un polinomio de grado n (números flotantes), muestre por pantalla el polinomio completo, por ejemplo si recibe los coeficientes 3.0, 2.0 y 1.0 debe mostrar `3.0 + 2.0 x + 1.0 x**2`
 2. Formar un menú con 4 opciones (como se muestra debajo) y al elegir una de ellas mostrar un cartel diciendo qué opción se eligió o si fue una opción incorrecta. 
 - Opción 1
 - Opción 2
@@ -22,11 +22,11 @@
 
 1. Escribir una función que reciba un arreglo de enteros como parámetros y devuelva la suma de todos sus elementos
 2. Escribir una función que reciba dos arreglos (que representan vectores) del mismo tamaño y devuelvan la suma y el producto escalar de los vectores
-3. Escribir una función que reciba dos arreglos A y B, de N y M elementos respectivamente que representan conjuntos de enteros y devuelva una arreglo con la unión y otro con la intersección de A y B. 
+3. Escribir una función que reciba dos arreglos A y B, de N y M elementos respectivamente que representan conjuntos de enteros y devuelva una arreglo con la unión y otro con la intersección de A y B.
 
 <h4>Punteros</h4>
 
-1. Escribir una función con la siguiente firma func swap(px, py *int) que permita intercambiar el valor almacenado en dos variables enteras a través de punteros.
+1. Escribir una función con la siguiente firma func `Swap(px, py *int)` que permita intercambiar el valor almacenado en dos variables enteras a través de punteros.
 
 <h4>Estructuras e Interfaces</h4>
 
@@ -37,4 +37,4 @@
 - b. Cuadrado
 - c. Circulo
 
-Que le permita al usuario crear 5 figuras y almacenarlas en un arreglo de figuras. Al terminar de cargar las figuras debe mostrar por pantalla todas las figuras almacenadas (usando el ToString) de cada figura.
+Que le permita al usuario crear 5 figuras y almacenarlas en un arreglo de figuras. Al terminar de cargar las figuras debe mostrar por pantalla todas las figuras almacenadas (usando el `ToString`) de cada figura.

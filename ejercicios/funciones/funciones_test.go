@@ -7,8 +7,8 @@ import (
 )
 
 func TestImprimirPolinomio(t *testing.T) {
-	coeficientes := []float64{3.0, 2.0, 1.0}
-	resultadoEsperado := "3.0 + 2.0 x + 1.0 x**2"
+	coeficientes := []float64{3.5, 2.5, 1.5}
+	resultadoEsperado := "3.5 + 2.5 x + 1.5 x**2"
 	resultado := ImprimirPolinomio(coeficientes)
 	assert.Equal(t, resultadoEsperado, resultado)
 }
